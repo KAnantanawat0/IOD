@@ -1,0 +1,11 @@
+DATA
+path/data
+path/Data
+*.csv
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+*.mp4
+*.ipynb_checkpoints
